@@ -1,0 +1,19 @@
+.Hind {
+    color:#336699;
+    border:8px Dotted#336699;
+display: flex;
+justify-content: center;
+background-color:#ff9999;
+}
+img{width:200px;
+border:3px dashed #ff9999;}
+body{
+    background-color:#99ccff;
+}
+.w{
+    padding:3px;
+    background-color:#ffcccc;
+    width:200px;
+    border:8px solid#005580;
+}
+    
